@@ -1,8 +1,9 @@
-library(ghql)
-library(magrittr)
-library(dplyr)
-library(anytime)
 
+#' @importFrom ghql GraphqlClient
+#' @importFrom ghql Query
+#' @importFrom magrittr "%>%"
+#' @importFrom anytime anytime
+#' @importFrom dplyr mutate
 
 NarwhalClient <- R6::R6Class(
   "NarwhalClient",
