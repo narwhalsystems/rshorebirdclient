@@ -1,0 +1,5 @@
+exportPattern(NarwhalClient)
+importFrom(ghql, GraphqlClient)
+importFrom(magrittr,"%>%")
+importFrom(dplyr, mutate)
+importFrom(anytime, anytime)

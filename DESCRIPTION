@@ -1,0 +1,11 @@
+Package: rshorebirdclient
+Type: Package
+Title: Fetch SDZG Shorebird Data from Narwhal Repository
+Version: 0.1.0
+Author: Greg Shear, Narwhal Systems, LLC
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
