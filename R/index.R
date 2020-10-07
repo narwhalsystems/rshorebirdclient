@@ -1,3 +1,8 @@
+library(ghql)
+library(magrittr)
+library(dplyr)
+library(anytime)
+
 
 NarwhalClient <- R6::R6Class(
   "NarwhalClient",
